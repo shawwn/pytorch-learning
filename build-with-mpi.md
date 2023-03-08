@@ -30,7 +30,7 @@ apt install automake flex
 
 download the source file from internet, you may refer to [up-to-date page](https://www.open-mpi.org/software/ompi/v3.0/)
 ```bash
-wget https://www.open-mpi.org/software/ompi/v2.1/downloads/openmpi-2.1.3.tar.gz # TODO: change to URL of 1.10.7
+wget https://download.open-mpi.org/release/open-mpi/v1.10/openmpi-1.10.7.tar.gz
 tar xvf openmpi-1.10.7.tar.gz
 ```
 
